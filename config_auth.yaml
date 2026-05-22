@@ -1,0 +1,18 @@
+cookie:
+  expiry_days: 1
+  key: cri_guelmim_2025
+  name: cri_cookie
+credentials:
+  usernames:
+    analyst:
+      email: analyst@cri-guelmim.ma
+      name: Analyste CRI
+      password: $2b$12$neLn4eoYOW89LYAkuerr3eoQRN7VtnaNZqIxKi3Xhd18lQHZd/mW6
+      role: analyst
+    investisseur:
+      email: invest@email.ma
+      name: Investisseur
+      password: $2b$12$1epXepzFcmhKPCX.2..j7ubbVddT5ikh/BTbd4TKt5bpo8WxUiyyW
+      role: investor
+preauthorized:
+  emails: []
